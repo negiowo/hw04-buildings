@@ -9,6 +9,10 @@ https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini
 The tutorial requires some nodes from SideFX Labs. If you haven’t already installed it, you can do so at the “Labs/Packages” tab of the Houdini Launcher.  
 
 ### Project Planning
+<p align="left">
+  <img width="339" src="./mushroomHouseReference.jpg">
+</p>
+<p align="center">(Partial result)</p>
 Before you begin on this project, skim through the tutorial and then pick a building type/style you’d like to emulate (either from photos or concept art). You should watch the entirety of the tutorial  before committing to a style so you can pick something that is manageable and will be achievable using the techniques in the tutorial.  
 Of course, you’re welcome to adapt the setup to support additional logic/features to match your style, and particularly complex additions could merit extra credit :) On the other hand, if you’re newer to Houdini and want to stick relatively close to the tutorial, that’s okay too. Just be sure to think through what changes your chosen buildings will require (additional assets? different placement logic?) before diving into the project so you don’t bite off more than you can chew.  
 Make sure the include the reference you select in your README, and don’t forget to credit your sources.  
